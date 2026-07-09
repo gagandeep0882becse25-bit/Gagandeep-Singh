@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="profile.jpg" width="180" alt="Gagandeep Singh">
-</p>
+
 
 <div align="center">
 
