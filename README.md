@@ -1,112 +1,68 @@
-<h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
-<h3 align="center">B.Tech CSE Student • Java Developer • Future Full Stack Developer 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Learning+DSA+%26+Web+Development;Open+Source+Enthusiast;Always+Learning+Something+New+🚀" />
-</p>
+<img src="profile.png" width="180" style="border-radius:50%;" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gagandeepsingh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+# Hi 👋 I'm Gagandeep Singh
 
----
+### 🎓 B.Tech CSE Student • ☕ Java Developer • 🚀 Future Full Stack Engineer
 
-# 💫 About Me
-
-🎓 **B.Tech Computer Science Engineering**  
-🏫 Chitkara University (2025–2029)
-
-💻 I'm passionate about building software and continuously improving my programming skills.
-
-🌱 Currently learning
-
-- Java
-- Data Structures & Algorithms
-- Web Development
-
-🎯 Goal:
-Become a skilled Software Engineer and contribute to Open Source projects.
-
----
-
-# 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Languages
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Learning+DSA+%26+Web+Development;Building+Projects+Every+Day;Always+Learning+New+Things+🚀"/>
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,c"/>
-
+<img src="https://komarev.com/ghpvc/?username=gagandeep0882becse25-bit&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/gagandeep0882becse25-bit?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/gagandeep0882becse25-bit?style=for-the-badge"/>
 </p>
 
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
-
-</p>
-
-### Currently Exploring
-
-- Spring Boot
-- React
-- MySQL
-- Git & GitHub
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 👨‍💻 About Me
 
-<p align="center">
+```java
+public class Gagandeep {
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh&show_icons=true&theme=tokyonight&hide_border=true"/>
+    String university = "Chitkara University";
+    String degree = "B.Tech CSE (2025-2029)";
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsingh&layout=compact&theme=tokyonight&hide_border=true"/>
+    String[] learning = {
+        "Java",
+        "Data Structures & Algorithms",
+        "Web Development",
+        "Git & GitHub"
+    };
 
-</p>
+    String goal = "Become a Full Stack Software Engineer";
+
+}
+```
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gagandeepsingh&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,git,github,vscode,idea,mysql&perline=5"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gagandeepsingh&theme=algolia&no-frame=true&row=1&column=7"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gagandeep0882becse25-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeep0882becse25-bit&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=gagandeep0882becse25-bit&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -116,58 +72,80 @@ Become a skilled Software Engineer and contribute to Open Source projects.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gagandeepsingh&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gagandeep0882becse25-bit&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🐍 Snake Eating Contributions
+# 🏆 Achievements
 
-> Enable this later using GitHub Actions.
+<p align="center">
 
-![snake gif](https://github.com/gagandeepsingh/gagandeepsingh/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-profile-trophy.vercel.app/?username=gagandeep0882becse25-bit&theme=algolia&no-frame=true&column=4"/>
 
----
-
-# 🚀 Projects
-
-### 📌 Project 1
-
-Coming Soon...
-
-### 📌 Project 2
-
-Coming Soon...
-
-### 📌 Project 3
-
-Coming Soon...
+</p>
 
 ---
 
-# 📚 Currently Learning
+# 💻 Currently Working On
 
-✔ Java Programming
+✅ Java Projects
 
-✔ Data Structures & Algorithms
+✅ Data Structures & Algorithms
 
-✔ HTML
+✅ Web Development
 
-✔ CSS
-
-✔ JavaScript
-
-✔ Git & GitHub
+✅ Building an Amazing Portfolio
 
 ---
 
-# 📖 Quote
+# 📂 Featured Repositories
 
-> *"Success doesn't come from what you do occasionally, it comes from what you do consistently."*
+⭐ Java Practice
+
+⭐ DSA Solutions
+
+⭐ HTML/CSS Projects
+
+⭐ JavaScript Projects
+
+⭐ Mini Projects
+
+⭐ Portfolio Website
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="48"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Dream Big. Start Small. Stay Consistent."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+
+</div>
